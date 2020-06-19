@@ -152,7 +152,7 @@ nav a:hover{
 }
 
 .places-wrapper:hover{
-    transition: .8s;
+    transition: 1s;
     box-shadow: 5px 5px 10px white;
  
 }    
@@ -172,7 +172,7 @@ nav a:hover{
 }
 
 .places-wrapper p{
-    color: black;
+    color: white;
     transition: 1s;
     margin: 10px;
     font-size: .9em;
