@@ -146,7 +146,7 @@ nav a:hover{
     max-width: 200px;
     margin-left: 70px;
     margin-top: 100px;
-    background-color: whitesmoke;
+    background-color: black;
     padding: 20px;
     box-shadow: 5px 5px 5px black;
 }
@@ -172,7 +172,7 @@ nav a:hover{
 }
 
 .places-wrapper p{
-    color: black;
+    color: white;
     transition: 1s;
     margin: 10px;
     font-size: .9em;
